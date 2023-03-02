@@ -2,4 +2,4 @@
 
 Look at this awesome change
 
-I am adding code to the project, look at me go!
+I am adding code, look at me go!
